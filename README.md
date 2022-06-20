@@ -19,7 +19,3 @@ Build a production headless store based in a Figma layout using Shopify Hydrogen
 - GraphQL
 - Docker
 - Serverless
-
-### Demo ⚡️
-
-<img src=".github/assets/Shopify Hydrogen Course.gif" alt="Shopify Hydrogen Course" width="700">
